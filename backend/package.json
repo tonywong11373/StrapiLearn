@@ -10,6 +10,8 @@
     "strapi": "strapi"
   },
   "devDependencies": {
+    "chai-http": "^4.3.0",
+    "mocha": "^9.0.3",
     "semantic-release": "^17.4.5"
   },
   "dependencies": {
@@ -38,7 +40,7 @@
   },
   "license": "MIT",
   "release": {
-    "branches":[
+    "branches": [
       "main"
     ]
   }
