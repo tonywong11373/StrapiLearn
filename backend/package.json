@@ -9,7 +9,9 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "semantic-release": "^17.4.5"
+  },
   "dependencies": {
     "strapi": "3.6.7",
     "strapi-admin": "3.6.7",
